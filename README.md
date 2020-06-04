@@ -1,2 +1,2 @@
-# neural_network_visualizer_web_app_with_python
+# Neural Network Visualizer Web App with Python
 A Neural Network Visualizer web application using Streamlit, and a simple model server using Keras and Flask. It uses Keras to train a Neural Network model, and use Keras' functional API to create a model with multiple outputs. It is a web application that visualizes the outputs of all the nodes of all the layers of the neural network for a given input.
